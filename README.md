@@ -21,8 +21,8 @@ At the moment, I’m working on strengthening my skills in AI/ML and scalable cl
 I’m interested in joining forces on impactful projects in software, artificial intelligence, or data—especially those focused on creating real-world value for people.
 
 # 📫 Connect With Me!
-**Website**: [https://ethanlukas.vercel.app/](https://cyruscliu.vercel.app/)
+**Website**: [https://cyruscliu.vercel.app/](https://cyruscliu.vercel.app/)
 
-**LinkedIn**: [https://www.linkedin.com/in/ethanlukas/](https://www.linkedin.com/in/cyrus-liu-uci/)
+**LinkedIn**: [https://www.linkedin.com/in/cyrus-liu-uci/](https://www.linkedin.com/in/cyrus-liu-uci/)
 
 **Email**: [dajcbcyrus@gmail.com](mailto:dajcbcyrus@gmail.com)

@@ -18,7 +18,7 @@ I'm a **Software Developer** with a passion for building impactful solutions and
 At the moment, I’m working on strengthening my skills in AI/ML and scalable cloud solutions, with a focus on building robust, high-impact applications.
 
 # 👯 I’m looking to collaborate on:
-I’m interested in joining forces on impactful projects in software, artificial intelligence, or data—especially those focused on creating real-world value for people.
+I’m interested in joining impactful projects in software, artificial intelligence, or data—especially those focused on creating real-world value for people.
 
 # 📫 Connect With Me!
 **Website**: [https://cyruscliu.vercel.app/](https://cyruscliu.vercel.app/)

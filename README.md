@@ -1,4 +1,4 @@
-![LinkedIn Banner]()
+![LinkedIn Banner](https://github.com/CyrsLiu/CyrusLiu/blob/ec8d8608392c63db550848128449cf1b1d151b29/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 # 👋 Hello! I'm Cyrus, thanks for checking out my profile!
 

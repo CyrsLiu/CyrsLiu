@@ -1,6 +1,6 @@
 ![LinkedIn Banner](https://github.com/CyrsLiu/CyrusLiu/blob/ec8d8608392c63db550848128449cf1b1d151b29/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
-# 👋 Hello! I'm Cyrus, thanks for checking out my profile!
+# 👋 Hi! I'm Cyrus, Welcome to my Profile!
 
 # **👀 [Take a look at my Website!](https://cyruscliu.vercel.app/)**
 
@@ -14,10 +14,10 @@ I'm a **Software Developer** with a passion for building impactful solutions and
 
 **Tools & Frameworks:** React, AWS, Git/GitHub, RESTful APIs, Microsoft: Docs, Excel
 
-# 🌱 I’m currently learning:
+# 🌱 Currently learning:
 At the moment, I’m working on strengthening my skills in AI/ML and scalable cloud solutions, with a focus on building robust, high-impact applications.
 
-# 👥 I’m looking to collaborate on:
+# 👥 Looking to collaborate on:
 I’m interested in joining impactful projects in software, artificial intelligence, or data—especially those focused on creating real-world value for people.
 
 # 📧 Connect With Me!
